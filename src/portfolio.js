@@ -9,23 +9,23 @@ export const globalStyles = {
 };
 
 // Navigation Bar Name
-export const navbar_name = "Suraj";
+export const navbar_name = "Shivam";
 
 // Main Page
 export const main = {
-  name: "Suraj Karosia",
+  name: "Shivam Shasheesh",
   doamin: "A MERN Stack Web Developer",
   resume:
-    "https://drive.google.com/file/d/13h_5_Ykgnx__iN-9CwtDW24Mjl-nk3df/view?usp=sharing",
+    "https://drive.google.com/file/d/1P-oP3aATTchfEzfag1W_3LUqv5OVMEdU/view?usp=sharing",
 };
 
 // AboutMe
 export const aboutme = {
   imgLink:
-    "https://github.com/1998Suraj/My_Photo/blob/main/ProfilePictureMaker%20(1).png?raw=true",
-  p1: "Hey, My name is Suraj Karosia. I have completed my Bachelor of Engineering in I.T Branch from Lakshmi Narain College of Technology, Indore(M.P.).",
-  p2: " I'm a passionate coder and an enthusiastic Web Developer capable of applying programming skills to solve complex problems. Seeking a challenging role in the field of software development that will offer an opportunity for further development of my abilities, skills and knowledge in an organization.",
-  p3: "Apart from coding I also like cooking 👨‍🍳 Bike riding 🏍️, Play Cricket 🏏.",
+    "https://avatars.githubusercontent.com/u/60641065?v=4",
+  p1: "Hey, My name is Shivam Shasheesh. I have completed my Bachelor in Computer Applications(Industry Oriented Program) from Galgotias University,Greater Noida.",
+  p2: " Dedicated and team-oriented full-Stack web developer who is passionate about learning new things with a specialization in Web Technologies,skilled in MERN stack who focuses on writing clean, elegant and efficient code.",
+  p3: "Apart from Tech I play Cricket 🏏 and go to the Gym very often. .",
 };
 
 // Skills
@@ -105,11 +105,7 @@ export const whatido = {
       iconifyClassName: "logos:material-ui",
       id: "13",
     },
-    {
-      name: "Ant Design",
-      iconifyClassName: "logos:ant-design",
-      id: "14",
-    },
+  
     {
       name: "Netlify",
       iconifyClassName: "vscode-icons:file-type-netlify",
@@ -127,38 +123,39 @@ export const whatido = {
 export const details = [
   {
     id: 1,
-    title: "UDEMY CLONE",
-    desc: `Udemy is an E-learning web application for online learning and teaching. Developed a look alike of it.`,
+    title: "MyGlamm.com Clone",
+    desc: ` MyGlamm is India’s fastest growing direct-to-consumer beauty brand. With over 800 SKUs across makeup, skincare and personal care, MyGlamm Beauty Products feature advanced, rich, feel-good formulas that are 100% cruelty-free, embrace Clean Beauty, and have skin-friendly ingredients.`,
     feature: `Sign-in/Sign-up, User Authentication
 Navbar, Search & Sorting Functionality
 Carousel / Slideshow
 Add to cart & Check out.`,
-    tech: `Tech Stack: HTML | TAILWIND CSS | EJS | Express JS | MongoDB`,
-    img: "https://github.com/1998Suraj/My_Photo/blob/main/44b71879-9d10-40ba-8857-0c195e9ada5c.png?raw=true",
+    tech: `Tech Stack: HTML | Bootstrap  | EJS | Express JS | MongoDB`,
+    img: "https://user-images.githubusercontent.com/60641065/153717916-5e7d33cd-0f3e-4b7c-8c15-630b52054564.png",
 
-    link: "https://aqueous-fortress-78543.herokuapp.com/",
-    github: "https://github.com/Sachi4496/Udemy-Clone-Backend",
+    link: "https://nodejs-app-myglamm.herokuapp.com/",
+    github: "https://github.com/shivamongit/MyGlamm_backend_clone",
   },
   {
     id: 2,
-    title: "PulzePlus Clone",
-    desc: `PulzPlus is an E-commerce web application for online Buying Medicines and Consult to Doctor and Book a near Testlab.`,
+    title: " Healthmug Clone",
+    desc: `Healthmug.com,an online portals with 1,00,000+ products catering to healthcare and wellness-related needs.`,
     feature: `Sign-in/Sign-up,
 Navbar, Slideshow
 Add to cart & Check out.`,
     tech: `Tech Stack: HTML | CSS | JavaScript `,
-    img: "https://github.com/1998Suraj/My_Photo/blob/main/d681b66d-fd70-423b-bb2b-96b8cfa623ba.png?raw=true",
-    github: "https://github.com/1998Suraj/PulzePlus-Clone",
-    link: "https://pulze-plus.vercel.app/",
+    img: "https://miro.medium.com/max/963/1*Q2LTOOSTYiKiEMyezJON4Q.png",
+    github: "https://github.com/shivamongit/Healthmug-clone-cw-project.git",
+    link: "",
   },
 ];
 
 // Social Media Links
 export const links = [
-  "https://www.instagram.com/suraj_karosia/",
-  "https://www.linkedin.com/in/suraj-karosia-81102b12a/",
-  "https://api.whatsapp.com/send/?phone=919399834008&text&app_absent=0",
-  "mailto:surajkarosia98@gmail.com",
-  "https://github.com/1998Suraj",
-  "https://twitter.com/KarosiaSurajhttps://twitter.com/KarosiaSuraj",
+  "https://www.instagram.com/shivam_.sk/",
+  "https://www.linkedin.com/in/shivamshasheesh/",
+  "https://api.whatsapp.com/send/?phone=9871031429&text&app_absent=0",
+  "mailto:shivam.akka@outlook.com",
+  "https://github.com/shivamongit",
+  "https://twitter.com/shivamshasheesh",
 ];
+
