@@ -145,7 +145,7 @@ Add to cart & Check out.`,
     tech: `Tech Stack: HTML | CSS | JavaScript `,
     img: "https://miro.medium.com/max/963/1*Q2LTOOSTYiKiEMyezJON4Q.png",
     github: "https://github.com/shivamongit/Healthmug-clone-cw-project.git",
-    link: "",
+    link: "https://salavisushant.github.io/Healthmug-final.github.io/",
   },
 ];
 
