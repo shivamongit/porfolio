@@ -22,7 +22,7 @@ export const main = {
 // AboutMe
 export const aboutme = {
   imgLink:
-    "https://avatars.githubusercontent.com/u/60641065?v=4",
+     "https://avatars.githubusercontent.com/u/60641065?v=4",
   p1: "Hey, My name is Shivam Shasheesh. I have completed my Bachelor in Computer Applications(Industry Oriented Program) from Galgotias University,Greater Noida.",
   p2: " Dedicated and team-oriented full-Stack web developer who is passionate about learning new things with a specialization in Web Technologies,skilled in MERN stack who focuses on writing clean, elegant and efficient code.",
   p3: "Apart from Tech I play Cricket 🏏 and go to the Gym very often. .",
