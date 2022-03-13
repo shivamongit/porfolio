@@ -121,8 +121,20 @@ export const whatido = {
 
 // Project Details
 export const details = [
-  {
+   {
     id: 1,
+    title: "Zostel.com Clone",
+    desc: ` Zostel is one of the largest and oldest networks of hostels and homes in India. It has a presence in 44 cities in India and Nepal.Zostel is one such one-size-fits-all kind of backpacker hostel chain in India. Whether you are in your teens traveling to explore the first chapter of life or in your twenties traveling to enjoy the thrills of life or in your thirties traveling to reignite your love affair with life – Zostel perfectly suits your requirements.`,
+    feature: `Integrated Payment Gateway, Payment Verfication, 
+Add to cart & Check out.`,
+    tech: `Tech Stack: ReactJS | NodeJS | Express JS | MongoDB`,
+    img: "https://portfolio-manasvi26.vercel.app/static/media/zostel_image.930804b3.png",
+
+    link: "https://zostelclone.netlify.app/",
+    github: "https://github.com/shivamongit/zostel",
+  },
+  {
+    id: 2,
     title: "MyGlamm.com Clone",
     desc: ` MyGlamm is India’s fastest growing direct-to-consumer beauty brand. With over 800 SKUs across makeup, skincare and personal care, MyGlamm Beauty Products feature advanced, rich, feel-good formulas that are 100% cruelty-free, embrace Clean Beauty, and have skin-friendly ingredients.`,
     feature: `Sign-in/Sign-up, User Authentication
@@ -136,7 +148,7 @@ Add to cart & Check out.`,
     github: "https://github.com/shivamongit/MyGlamm_backend_clone",
   },
   {
-    id: 2,
+    id: 3,
     title: " Healthmug Clone",
     desc: `Healthmug.com,an online portals with 1,00,000+ products catering to healthcare and wellness-related needs.`,
     feature: `Sign-in/Sign-up,
