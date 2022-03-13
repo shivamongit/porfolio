@@ -3,12 +3,7 @@
 
 <p align="center"> 
     <a href="https://github.com/1998Suraj/My-Portfolio" target="_blank">
-     <img src="https://github.com/1998Suraj/My_Photo/blob/main/Home.png?raw=true"></img>
-        <img src="https://github.com/1998Suraj/My_Photo/blob/main/About.png?raw=true"></img>
-          <img src="https://github.com/1998Suraj/My_Photo/blob/main/skills.png?raw=true"></img>
-           <img src="https://github.com/1998Suraj/My_Photo/blob/main/Project1.png?raw=true"></img>
-            <img src="https://github.com/1998Suraj/My_Photo/blob/main/project2.png?raw=true"></img>
-             <img src="https://github.com/1998Suraj/My_Photo/blob/main/Contact.png?raw=true"></img>
+      
 
   </a>
 </p>
